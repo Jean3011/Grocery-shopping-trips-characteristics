@@ -18,6 +18,7 @@ which socio-demographic and spatial factors are most important, which may be ign
 and how these factors interact to predict the frequency of grocery shopping trips. Besides 
 that, a multinomial logit model allowed determining the probability that an individual 
 chooses an alternative mode of transportation based on the independent variables. 
+
 Among the primary findings was that the distance to the supermarket has a substantial 
 impact not only on the number of trips to the supermarket but also on the mode choice. 
 For example, when the distance is less than 2 kilometers, the frequency of trips increases,
@@ -26,6 +27,7 @@ supermarket increases, less trips are done per month and car became the most pro
 mode of transportation. From the socio-demographic characteristics, it was found that 
 annual income has an inverse relation with the frequency of trips and that individuals that 
 have a lower income are more likely to use their bikes or to walk for this activity. 
+
 Finally, it is suggested to have a more in-depth analysis for this type of trips because many 
 more variables that were not consider in this study may have a significant effect on the 
 two main topics studied here. For instance, the growth of e-bikes could have a great 
