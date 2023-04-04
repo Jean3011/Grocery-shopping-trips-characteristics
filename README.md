@@ -11,6 +11,7 @@ a dataset provided by Mobidot using statistical approaches in order to gain a be
 understanding of grocery shopping trips. In order to accomplish so, the variables affecting 
 the frequency of grocery shopping and modes of transportation chosen for this activity 
 were examined. 
+
 A negative binomial regression model was performed to evaluate the relation between 
 the frequency of trips and the independent variables. The goal is to identify with certainty 
 which socio-demographic and spatial factors are most important, which may be ignored, 
