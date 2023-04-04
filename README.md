@@ -39,3 +39,6 @@ that in a near future, the predominant transportation mode for short-distance re
 activities changes from car to bike. Another factor that could affect this type of trips is the 
 increasing delivery services offered by the supermarkets in the Netherlands. Therefore, 
 more attention must be paid to this topic.
+
+## Note
+Unfortunately, the data used for this research was provided by a private company, therefore I cannot share the dataset.
