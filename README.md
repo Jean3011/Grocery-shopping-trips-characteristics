@@ -1,7 +1,7 @@
 # Characteristics-of-Grocery-shopping-trips
 ## Understanding characteristics of grocery shopping trips in the Netherlands
 
-![image](https://user-images.githubusercontent.com/120759369/229896507-cd675428-7afe-4db4-8532-733c78e3842a.png)
+![Poster thesis](https://user-images.githubusercontent.com/120759369/229898205-965191c5-2724-437f-ad7e-d434d9f57e4f.jpg)
 
 One of the most significant reasons for a trip is to do grocery shopping. In fact, according 
 to the Dutch National Travel Survey (NTS), there are more trips made for shopping than 
